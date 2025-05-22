@@ -66,6 +66,13 @@ The goal of BetelLeafEater is to build a minimal but functional game engine from
 
 ---
 
+### Screenshots
+
+<img src="./assets/screenshots/pic_0.png" width="500">
+<img src="./assets/screenshots/pic_1.png" width="500">
+
+---
+
 ### Contributors
 
 - Dhruv Chouhan [ecxtacy](https://github.com/ecxtacy) [dc.dhruvchouhan@gmail.com](mailto:dc.dhruvchouhan@gmail.com)
